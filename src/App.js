@@ -12,7 +12,6 @@ class App extends Component {
       { id: 2, value: 0, tags: [] },
       { id: 3, value: 1, tags: [1] },
       { id: 4, value: 2, tags: [1, 2] },
-      { id: 5, value: 2, tags: [1, 2] }
     ],
   };
   //controlled components do not have their own state
